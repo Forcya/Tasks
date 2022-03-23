@@ -6,9 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Задачи 2-ого модуля");
-        System.out.println("Задачи 2-ого модуля");
-        System.out.println("Задачи 2-ого модуля");
-        System.out.println("commit init 3");
+        System.out.println("-------------------");
         //3.3.12
 //	    Human human1 = new Human();
 //        Human human2 = new Human();
